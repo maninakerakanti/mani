@@ -1,0 +1,15 @@
+  git 
+--git status..
+--git init....
+--touh filename(ex.mani)
+--git add mani
+--git commit -m"label"filename
+label=what perpose do u have create it to wright read the unknow
+persons and understanding
+git we have 3 stages 1.wroke space 2.index or intermediate 3.local repo
+   files ar in wrock space which i show red colour and 2nd position green
+   git hub;go to google search git hub create account
+--git push (to use push the file local to central repo)
+--ls  (to use show the all files)
+--cd (it is use to move the perfect file)
+--cd ..(it is use to back the file)
